@@ -1,24 +1,50 @@
-# 👨‍💻 Hi there, I'm Hussein Yasser! 👋
+# 👋 Hi, I'm Hussein Yasser
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=CS+Student;ICPC+Finalist;Competitive+Programmer;.NET+Developer)](https://git.io/typing-svg)
+![Header](https://raw.githubusercontent.com/your-username/your-repo/main/header-image.png)
 
-Welcome to my GitHub profile! I'm a third-year Computer Science student with a deep passion for problem-solving, algorithms, and building efficient software.
-
-## 🚀 About Me
-- 🏆 **ICPC Finalist** and current leader of my faculty's ICPC community.
-- 🌙 Currently organizing a **Ramadan Marathon** to help newcomers dive into competitive programming!
-- 💻 Recently passed the **Amazon Online Assessment (OA)**.
-- 📚 Expanding my software engineering toolkit by actively studying for a **.NET diploma**.
-- 🗣️ I love teaching and sharing knowledge, frequently preparing sessions on topics like Binary Search and Two-Pointers for my community.
-
-## 🛠️ Tech Stack & Core Interests
-- **Primary Language:** C++ (My absolute go-to for problem-solving)
-- **Algorithms & Math:** Dynamic Programming, Graph Theory (BFS/DFS), Number Theory (Primality tests), Combinatorics, and Probability.
-- **Concepts:** Computer Networking & Subnetting.
-
-## ⚡ Fun Facts
-- 🎮 When I step away from the IDE, you can usually find me ranking up in **PUBG Mobile** or grinding in **Marvel Contest of Champions**.
-- 🛒 I have a special talent for hunting down the absolute best open-box and refurbished tech deals on Amazon!
+💻 **Computer Science Student | Competitive Programmer | Problem Solver**  
 
 ---
-*Feel free to reach out if you want to discuss algorithmic optimizations, .NET development, or even team up for a gaming session!*
+
+## 🌟 About Me
+- Second-year CS student passionate about algorithms, data structures, and problem-solving.  
+- Competitive programming enthusiast with a focus on C++ and recursive DP.  
+- Always exploring computational geometry, graph theory, and dynamic programming.  
+- Curious about backend development and system design.  
+
+---
+
+## 🛠️ Skills
+- **Languages:** C++, C#, Java, Python  
+- **Algorithms & DS:** DP, Graphs, Bitmasking, Segment Trees, 2-SAT, KMP, Hashing  
+- **Tools & Platforms:** Git, GitHub, Codeforces, LeetCode, Microsoft Project  
+- **Other:** OOP, System Analysis, Agile Methodologies  
+
+---
+
+## 🏆 Competitive Programming
+- Current CP Level: **Level 3**  
+- Platforms: **Codeforces, AtCoder**  
+- Specialties: Recursive DP, Computational Geometry, Bitmask DP, String Matching  
+
+---
+
+## 📚 Interests
+- Backend Development & System Design  
+- Data Structures & Algorithm Optimization  
+- Creative OOP Projects & Game-like Simulations  
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving complex algorithmic problems without relying on built-in helpers — the challenge is the reward! 😎  
+
+---
+
+## 📫 Contact Me
+- Email: [husseinyasser2004@gmail.com](mailto:husseinyasser2004@gmail.com)  
+- GitHub: [github.com/Hussein-Badry2391](https://github.com/Hussein-Badry2391)  
+
+---
+
+> “Solving problems is not just about coding — it’s about thinking differently.” 🚀
