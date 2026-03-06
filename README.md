@@ -34,7 +34,7 @@
 
 ```yaml
 name: Hussein Yasser
-located_in: LuxorEgypt
+located_in: Luxor, Egypt
 current_focus: Computer Science & Competitive Programming
 ```
 
